@@ -1,7 +1,6 @@
 import smtplib
 import email.message
 import yfinance as yf
-from health_screen_script import automate_health_checkin
 from datetime import datetime, timedelta
 from yahoo_fin import stock_info as si
 
